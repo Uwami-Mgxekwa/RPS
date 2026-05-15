@@ -1580,3 +1580,5 @@ update 766
 update 925
 update 767
 update 926
+update 769
+update 927
