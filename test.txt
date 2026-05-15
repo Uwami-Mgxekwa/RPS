@@ -805,3 +805,5 @@ update 522
 update 366
 update 523
 update 367
+update 524
+update 368
